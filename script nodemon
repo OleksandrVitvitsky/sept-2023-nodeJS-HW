@@ -1,0 +1,7 @@
+  "scripts": {
+    "serve": "nodemon src/main.ts",
+    "start": "node src/main.ts"
+  },
+
+  "start:dev": "rimraf dist && tsc-watch --OnSuccess 'npm run watch:server'",
+      "watch:server": "nodemon './src/main.ts' --watch './src'",

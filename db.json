@@ -1,0 +1,99 @@
+[
+  {
+    "id": 1,
+    "first_name": "Oleksandr",
+    "last_name": "Ivanov",
+    "age": 28,
+    "phone": "+380501234567",
+    "login": "alex28",
+    "password": "Passw0rd!",
+    "email": "alex28@example.com"
+  },
+  {
+    "first_name": "lao2lao3",
+    "age": 1,
+    "email": "atata.lao@gmail.com"
+  },
+  {
+    "id": 3,
+    "first_name": "Petro",
+    "last_name": "Kovalenko",
+    "age": 42,
+    "phone": "+380504567890",
+    "login": "petro42",
+    "password": "KovalenkoP42",
+    "email": "petro.k@example.com"
+  },
+  {
+    "id": 4,
+    "first_name": "Olena",
+    "last_name": "Lysenko",
+    "age": 25,
+    "phone": "+380505678901",
+    "login": "olena_l",
+    "password": "Lysenko25",
+    "email": "olena.l@example.com"
+  },
+  {
+    "id": 5,
+    "first_name": "Dmytro",
+    "last_name": "Savchenko",
+    "age": 31,
+    "phone": "+380506789012",
+    "login": "dmytro_s",
+    "password": "Savchenko31",
+    "email": "dmytro.s@example.com"
+  },
+  {
+    "id": 6,
+    "first_name": "Iryna",
+    "last_name": "Kuzmenko",
+    "age": 29,
+    "phone": "+380507890123",
+    "login": "iryna_k",
+    "password": "Kuzmenko29",
+    "email": "iryna.k@example.com"
+  },
+  {
+    "id": 7,
+    "first_name": "Serhiy",
+    "last_name": "Melnyk",
+    "age": 38,
+    "phone": "+380508901234",
+    "login": "serhiy_m",
+    "password": "Melnyk38",
+    "email": "serhiy.m@example.com"
+  },
+  {
+    "id": 8,
+    "first_name": "Anna",
+    "last_name": "Romanenko",
+    "age": 27,
+    "phone": "+380509012345",
+    "login": "anna_r",
+    "password": "Romanenko27",
+    "email": "anna.r@example.com"
+  },
+  {
+    "id": 9,
+    "first_name": "Volodymyr",
+    "last_name": "Honchar",
+    "age": 36,
+    "phone": "+380501112233",
+    "login": "volodymyr_g",
+    "password": "Honchar36",
+    "email": "volodymyr.g@example.com"
+  },
+  {
+    "id": 11,
+    "first_name": "lao",
+    "age": 5,
+    "email": "atata@gmail.com"
+  },
+  {
+    "id": 12,
+    "first_name": "lao2",
+    "age": 8,
+    "email": "atata@gmail.com"
+  }
+]

@@ -1,0 +1,185 @@
+const users =
+    [
+        {
+            "first_name": "Oleksandr",
+            "last_name": "Ivanov",
+            "age": 28,
+            "phone": "+380501234567",
+            "login": "alex28",
+            "password": "Passw0rd!",
+            "email": "alex28@example.com"
+        },
+        {
+            "first_name": "Maria",
+            "last_name": "Shevchenko",
+            "age": 34,
+            "phone": "+380503456789",
+            "login": "maria_s",
+            "password": "Secure123",
+            "email": "maria.s@example.com"
+        },
+        {
+            "first_name": "Petro",
+            "last_name": "Kovalenko",
+            "age": 42,
+            "phone": "+380504567890",
+            "login": "petro42",
+            "password": "KovalenkoP42",
+            "email": "petro.k@example.com"
+        },
+        {
+            "first_name": "Olena",
+            "last_name": "Lysenko",
+            "age": 25,
+            "phone": "+380505678901",
+            "login": "olena_l",
+            "password": "Lysenko25",
+            "email": "olena.l@example.com"
+        },
+        {
+            "first_name": "Dmytro",
+            "last_name": "Savchenko",
+            "age": 31,
+            "phone": "+380506789012",
+            "login": "dmytro_s",
+            "password": "Savchenko31",
+            "email": "dmytro.s@example.com"
+        },
+        {
+            "first_name": "Iryna",
+            "last_name": "Kuzmenko",
+            "age": 29,
+            "phone": "+380507890123",
+            "login": "iryna_k",
+            "password": "Kuzmenko29",
+            "email": "iryna.k@example.com"
+        },
+        {
+            "first_name": "Serhiy",
+            "last_name": "Melnyk",
+            "age": 38,
+            "phone": "+380508901234",
+            "login": "serhiy_m",
+            "password": "Melnyk38",
+            "email": "serhiy.m@example.com"
+        },
+        {
+            "first_name": "Anna",
+            "last_name": "Romanenko",
+            "age": 27,
+            "phone": "+380509012345",
+            "login": "anna_r",
+            "password": "Romanenko27",
+            "email": "anna.r@example.com"
+        },
+        {
+            "first_name": "Volodymyr",
+            "last_name": "Honchar",
+            "age": 36,
+            "phone": "+380501112233",
+            "login": "volodymyr_g",
+            "password": "Honchar36",
+            "email": "volodymyr.g@example.com"
+        },
+        {
+            "first_name": "Yulia",
+            "last_name": "Tymoshenko",
+            "age": 30,
+            "phone": "+380502223344",
+            "login": "yulia_t",
+            "password": "Tymoshenko30",
+            "email": "yulia.t@example.com"
+        },
+        {
+            "first_name": "Mykhailo",
+            "last_name": "Demchenko",
+            "age": 40,
+            "phone": "+380503334455",
+            "login": "mykhailo_d",
+            "password": "Demchenko40",
+            "email": "mykhailo.d@example.com"
+        },
+        {
+            "first_name": "Viktoria",
+            "last_name": "Zakharchenko",
+            "age": 22,
+            "phone": "+380504445566",
+            "login": "viktoria_z",
+            "password": "Zakharchenko22",
+            "email": "viktoria.z@example.com"
+        },
+        {
+            "first_name": "Andriy",
+            "last_name": "Bondar",
+            "age": 33,
+            "phone": "+380505556677",
+            "login": "andriy_b",
+            "password": "Bondar33",
+            "email": "andriy.b@example.com"
+        },
+        {
+            "first_name": "Kateryna",
+            "last_name": "Tarasenko",
+            "age": 26,
+            "phone": "+380506667788",
+            "login": "kateryna_t",
+            "password": "Tarasenko26",
+            "email": "kateryna.t@example.com"
+        },
+        {
+            "first_name": "Ihor",
+            "last_name": "Sydorenko",
+            "age": 35,
+            "phone": "+380507778899",
+            "login": "ihor_s",
+            "password": "Sydorenko35",
+            "email": "ihor.s@example.com"
+        },
+        {
+            "first_name": "Natalia",
+            "last_name": "Petrenko",
+            "age": 28,
+            "phone": "+380508889900",
+            "login": "natalia_p",
+            "password": "Petrenko28",
+            "email": "natalia.p@example.com"
+        },
+        {
+            "first_name": "Yevhen",
+            "last_name": "Kravchenko",
+            "age": 32,
+            "phone": "+380509990011",
+            "login": "yevhen_k",
+            "password": "Kravchenko32",
+            "email": "yevhen.k@example.com"
+        },
+        {
+            "first_name": "Olga",
+            "last_name": "Polishchuk",
+            "age": 29,
+            "phone": "+380501001122",
+            "login": "olga_p",
+            "password": "Polishchuk29",
+            "email": "olga.p@example.com"
+        },
+        {
+            "first_name": "Roman",
+            "last_name": "Hrytsenko",
+            "age": 41,
+            "phone": "+380502223344",
+            "login": "roman_g",
+            "password": "Hrytsenko41",
+            "email": "roman.g@example.com"
+        },
+        {
+            "first_name": "Svitlana",
+            "last_name": "Yakovenko",
+            "age": 27,
+            "phone": "+380503334455",
+            "login": "svitlana_y",
+            "password": "Yakovenko27",
+            "email": "svitlana.y@example.com"
+        }
+    ];
+
+
